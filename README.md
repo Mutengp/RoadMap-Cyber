@@ -1,5 +1,5 @@
 # RoadMap-Cyber
-Meu roda map para cyber baseado em outro pull do git Hub 
+Meu Roadmap para cyber baseado em outro pull do git Hub 
 # Cibersegurança
 ## Nivel 1
 - [ ] **Linha de comando - Fundamentos**:
